@@ -1,7 +1,7 @@
 <!-- Banner or aesthetic hero image suggestion -->
 <!-- Animated Galaxy Banner -->
 <p align="center">
-  <img src="https://your-host.com/galaxy-banner.gif" alt="Aysha Galaxy Banner" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=F96CA6&height=200&section=header&text=Aysha%20%7C%20Designer%20Who%20Codes&fontAlign=center&fontSize=40&fontColor=ffffff" />
 </p>
 
 <h3 align="center">🌸 Pixel-perfect meets pull request 🌸</h3>
