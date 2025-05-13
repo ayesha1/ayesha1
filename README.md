@@ -1,16 +1,59 @@
-## Hi there 👋
+<!-- Banner or aesthetic hero image suggestion -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=F96CA6&height=200&section=header&text=Aysha%20%7C%20Designer%20Who%20Codes&fontAlign=center&fontSize=40&fontColor=ffffff" />
+</p>
 
-<!--
-**ayesha1/ayesha1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">🌸 Pixel-perfect meets pull request 🌸</h3>
+<p align="center">Creating beautiful, functional interfaces — in 2D, 3D, and XR</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🎨 About Me
+
+Hi, I'm **Aysha** — a product designer & immersive technologist who brings design systems to life and builds for the future of human-computer interaction. From Figma components to Unity physics, I bridge the gap between visuals and functionality.
+
+- 💡 Crafting **design systems** with accessibility + dark mode baked in  
+- 🕶️ Building **mixed reality prototypes** in Unity + WebXR  
+- 🧠 Designing for **spatial UX** and complex platforms  
+- ✨ Obsessed with pixels, patterns, and pushing boundaries  
+
+---
+
+## 🧪 Projects I'm Proud Of
+
+| Project | Tech | What I Did |
+|--------|------|------------|
+| 🧱 Design System Overhaul | Figma + Dev Handoff | Created tokenized color variables, theme toggles, and accessibility scaffolding |
+| 🌐 3D Ecommerce Concept | Unity + WebXR | Designed an immersive shopping experience in first/third person view |
+| 🧠 VR Therapy Prototype | Unity (XR Toolkit) | Prototyped mental health environments with interaction & grab physics |
+| 💻 Glassmorphism UI | CSS + Dev Collab | Balanced visual flair with browser performance & WCAG contrast rules |
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ayesha1&show_icons=true&theme=radical&hide_border=true&hide_title=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayesha1&layout=compact&theme=radical&hide_border=true" height="150"/>
+</p>
+
+---
+
+## 🛠️ Tools I Love
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=figma,unity,html,css,js,react,threejs,vscode,github,blender" />
+</p>
+
+---
+
+## 📫 Let’s Connect
+
+- 💼 [Portfolio](https://your-portfolio.com)
+- 🔗 [LinkedIn](https://linkedin.com/in/yourname)
+- 📸 [Instagram](https://instagram.com/xr.ayshx)
+- ✉️ [Email](mailto:your@email.com)
+
+---
+
+<p align="center">✨ Let’s make your GitHub as ✨designed✨ as your product ✨</p>
