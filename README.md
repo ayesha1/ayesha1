@@ -1,8 +1,8 @@
 <!-- Banner or aesthetic hero image suggestion -->
 <!-- Animated Galaxy Banner -->
-<!-- 🎆 SVG-Based Banner with Gradient + Stars -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=F96CA6&center=true&vCenter=true&width=435&lines=✨+Hi+I'm+Aysha!;Designer+%F0%9F%96%A4+Who+Codes;Creating+in+2D,+3D,+and+XR" alt="Animated typing SVG" />
+<!-- 🌌 Custom SVG Banner with Animated Typing and Starry Background -->
+<p align="center" style="background: radial-gradient(ellipse at center, #1a0023 0%, #000000 100%); padding: 30px 0; border-radius: 12px;">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=F96CA6&center=true&vCenter=true&width=435&lines=✨+Hi+I'm+Aysha!;Designer+%F0%9F%96%A4+Who+Codes;Creating+in+2D,+3D,+and+XR" alt="Animated Aysha Typing SVG" />
 </p>
 
 <h3 align="center">🌌 Pixel-perfect meets pull request 🌌</h3>
