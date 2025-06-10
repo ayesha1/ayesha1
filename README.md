@@ -1,7 +1,7 @@
 <!-- Banner or aesthetic hero image suggestion -->
 <!-- 🎆 SVG-Based Banner with Gradient + Stars -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=F96CA6&center=true&vCenter=true&width=435&lines=✨+Hi+I'm+Aysha!;Designer+%F0%9F%96%A4+Who+Codes;Creating+in+2D,+3D,+and+XR" alt="Animated typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=F96CA6&center=true&vCenter=true&width=435&lines=✨+Hi+I'm+Ayesha!;Designer+%F0%9F%96%A4+Who+Codes;Creating+in+2D,+3D,+and+XR" alt="Animated typing SVG" />
 </p>
 
 <h3 align="center">🌌 Pixel-perfect meets pull request 🌌</h3>
@@ -11,7 +11,7 @@
 
 ## 🎨 About Me
 
-Hi, I'm **Aysha** — a product designer & immersive technologist who brings design systems to life and builds for the future of human-computer interaction. From Figma components to Unity physics, I bridge the gap between visuals and functionality.
+Hi, I'm **Ayesha** — a product designer & immersive technologist who brings design systems to life and builds for the future of human-computer interaction. From Figma components to Unity physics, I bridge the gap between visuals and functionality.
 
 - 💡 Crafting **design systems** with accessibility + dark mode baked in  
 - 🕶️ Building **mixed reality prototypes** in Unity + WebXR  
